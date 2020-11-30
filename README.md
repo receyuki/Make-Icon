@@ -3,7 +3,7 @@
 ## Usage
 
 ```
-curl -O https://github.com/receyuki/Make-Icon/raw/main/makeIcon.sh
+curl -O https://raw.githubusercontent.com/receyuki/Make-Icon/main/makeIcon.sh
 chmod +x ./makeIcon.sh
 ./makeIcon.sh imageFile
 ```
