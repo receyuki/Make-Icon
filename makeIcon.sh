@@ -1,7 +1,7 @@
 #!/bin/bash
 
 ###################################################################
-#Script Name	:MakeIcon.sh
+#Script Name	:makeIcon.sh
 #Description	:Converting image to .icns file.
 #Args    		:Image file path
 #Author       	:receyuki                                              
