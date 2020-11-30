@@ -11,17 +11,6 @@
 	</dict>
 	<key>files2</key>
 	<dict>
-		<key>QuickLook/Preview.png</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			IGC6C8hhbVYgN2MXRaBeK0NTC4U=
-			</data>
-			<key>hash2</key>
-			<data>
-			aOy+T7tBnUNo+cXk0iEGOa8CAbKIfXGVDNYMLmG92uE=
-			</data>
-		</dict>
 		<key>QuickLook/Thumbnail.png</key>
 		<dict>
 			<key>hash</key>
@@ -48,7 +37,7 @@
 		<dict>
 			<key>cdhash</key>
 			<data>
-			+A3wC+Uo7A3JDkk3vKoRgH7gGVc=
+			EPhXKTBicS+d4NX9v8UUghg4KiU=
 			</data>
 			<key>requirement</key>
 			<string>identifier document and anchor apple generic and certificate leaf[subject.CN] = "Apple Development: receyuki@gmail.com (T8PKRGG2BK)" and certificate 1[field.1.2.840.113635.100.6.2.1] /* exists */</string>

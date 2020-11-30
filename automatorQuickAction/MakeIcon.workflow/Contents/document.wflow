@@ -61,8 +61,8 @@
 					<key>COMMAND_STRING</key>
 					<string>for f in "$@"
 do
-	cd $(dirname "$f")
-	filename=$(basename $f)
+	cd "$(dirname "$f")"
+	filename=$(basename "$f")
 	iconname=${filename%.*}".icns"
 	mkdir .icons.iconset
 	sips -z 16 16	--setProperty format png "$filename" --out .icons.iconset/icon_16x16.png
@@ -192,7 +192,7 @@ done</string>
 				<key>isViewVisible</key>
 				<integer>1</integer>
 				<key>location</key>
-				<string>501.000000:665.000000</string>
+				<string>501.000000:305.000000</string>
 				<key>nibPath</key>
 				<string>/System/Library/Automator/Run Shell Script.action/Contents/Resources/Base.lproj/main.nib</string>
 			</dict>
