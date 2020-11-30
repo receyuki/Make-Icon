@@ -59,7 +59,15 @@
 				<key>ActionParameters</key>
 				<dict>
 					<key>COMMAND_STRING</key>
-					<string>for f in "$@"
+					<string>###################################################################
+#Script Name	:MakeIcon.sh
+#Description	:Converting image to .icns file.
+#Args    		:Image file path
+#Author       	:receyuki                                              
+#Email         	:receyuki@gmail.com                                           
+###################################################################
+
+for f in "$@"
 do
 	cd "$(dirname "$f")"
 	filename=$(basename "$f")

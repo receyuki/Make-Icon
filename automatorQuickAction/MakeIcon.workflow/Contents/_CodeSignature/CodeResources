@@ -37,7 +37,7 @@
 		<dict>
 			<key>cdhash</key>
 			<data>
-			EPhXKTBicS+d4NX9v8UUghg4KiU=
+			1AGVYJ6iY0GCyWkD29Ir3L+FujU=
 			</data>
 			<key>requirement</key>
 			<string>identifier document and anchor apple generic and certificate leaf[subject.CN] = "Apple Development: receyuki@gmail.com (T8PKRGG2BK)" and certificate 1[field.1.2.840.113635.100.6.2.1] /* exists */</string>
