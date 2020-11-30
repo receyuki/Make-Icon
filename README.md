@@ -1,5 +1,7 @@
 # Make-Icon
 
+Converting image to .icns file.
+
 ## Usage
 
 ```
