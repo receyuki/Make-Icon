@@ -1,5 +1,13 @@
 #!/bin/bash
 
+###################################################################
+#Script Name	:MakeIcon.sh
+#Description	:Converting image to .icns file.
+#Args    		:Image file path
+#Author       	:receyuki                                              
+#Email         	:receyuki@gmail.com                                           
+###################################################################
+
 echo "Start making icon..."
 
 filepath=$1
